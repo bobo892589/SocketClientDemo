@@ -1,0 +1,9 @@
+SocketTest.xcodeproj/project.xcworkspace/
+SocketTest.xcodeproj/xcuserdata/
+SocketTest.xcworkspace/xcuserdata/
+SocketTest.xcworkspace/xcshareddata/
+Pods/
+Podfile.lock
+Build/
+Archive/
+.DS_Store
